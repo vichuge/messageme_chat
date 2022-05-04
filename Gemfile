@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'rails', '~> 6.1', '>= 6.1.5.1'
+gem 'rails', '~> 6.1.5', '>= 6.1.5.1'
